@@ -6,6 +6,7 @@ This Project is made to help everyone quit Facebook and keep following favourite
 
 
 ## Features
+```sh
 - Facebook will never know your identity as everything is done on server and the bot just fetching the post to you.
 
 - you can subscribe to Facebook pages using page ID (@bla_bla_bla)
@@ -17,11 +18,7 @@ This Project is made to help everyone quit Facebook and keep following favourite
 - It will check for new posts every hour and send you newer post in order.- can't make it any faster for now as Facebook will block the request ( you are not a robot test and I am a bot 😔)
 
 - Zero data collected and will never collect data.
-
-
-## WE NEED COMMUNITY HELP TO IMPROVE IT 
-Facebook changed the way it view pages for non-users , now you must login to continue view pages or use cookies which may lead to account suspenstion 
-feel free to help make this more public to people everywhere 
+```
 
 ## REQUIRMENT & INSTALLATION
   - Python 3.6 or obove (project was built on python 3.6 )
@@ -33,6 +30,12 @@ pip install git+https://github.com/FoRKsH/telepot.git
 ```sh
 pip install facebook-scraper
 ```
+
+## WE NEED COMMUNITY HELP TO IMPROVE IT 
+Facebook changed the way it view pages for non-users , now you must login to continue view pages or use cookies which may lead to account suspenstion 
+feel free to help make this more public to people everywhere 
+
+
 
 ## DIsclaimer
 ```sh
