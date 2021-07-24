@@ -32,13 +32,13 @@ pip install facebook-scraper
 ```
 
 ## WE NEED COMMUNITY HELP TO IMPROVE IT 
-Facebook changed the way it view pages for non-users , now you must login to continue view pages or use cookies which may lead to account suspenstion 
+Facebook changed the way it view pages for non-users , now you must login to continue viewing pages or use cookies which may lead to account suspenstion 
 feel free to help make this more public to people everywhere 
 
 
 
 ## DIsclaimer
 ```sh
-This project was built in few days so the code maybe mess and with community help we can imporve it
+This project was built in few days so the code maybe a mess and with community help we can imporve it
 ```
 
