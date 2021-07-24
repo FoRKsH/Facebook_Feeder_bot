@@ -26,7 +26,7 @@ This Project is made to help everyone quit Facebook and keep following favourite
 ```sh
 pip install git+https://github.com/FoRKsH/telepot.git
 ```
-  - Facebook Scrapper 
+  - [Facebook Scrapper](https://github.com/kevinzg/facebook-scraper)
 ```sh
 pip install facebook-scraper
 ```
